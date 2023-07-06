@@ -73,7 +73,10 @@ textarea {
     margin: 5px 0 25px 0;
     padding: 10px;
     font-size: 18px;
+    width: 500px; 
+    height: 139px;
 }
+
 
 button {
     background: #00318b;
